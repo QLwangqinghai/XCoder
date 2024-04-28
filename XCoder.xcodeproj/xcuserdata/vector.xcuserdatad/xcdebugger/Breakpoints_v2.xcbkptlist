@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F0F11ED8-3EAF-402E-843C-0E3CC1294158"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "780D04DC-1165-446D-BBD9-E8BE95878FDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XCoder/Source/XCoreCoder.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "858"
+            endingLineNumber = "858"
+            landmarkName = "XCEncodeMessageHeader(bytes, capacity, location, type, count)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D32C1464-6971-4DBB-A928-BFFC1210AAD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XCoder/Source/XCoreCoder.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "878"
+            endingLineNumber = "878"
+            landmarkName = "XCEncodeMessageHeader(bytes, capacity, location, type, count)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50AAD4E3-0947-4AAE-82A2-1489380C3396"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XCoder/Source/XCoreCoder.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "670"
+            endingLineNumber = "670"
+            landmarkName = "XCDecodeHeader(bytes, capacity, location, header)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2212B88-FC47-49BF-A9FD-7ED0F0D378A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/XCoder/XSerialization.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "readHeader(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2212B88-FC47-49BF-A9FD-7ED0F0D378A9 - 99ef0a0110134b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XCoder.XCReader.readHeader(index: Swift.UnsafeMutablePointer&lt;Swift.Int&gt;) throws -&gt; __C.XCValueHeader_s"
+                  moduleName = "XCoder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vector/git.public/git.public/XCoder/Sources/XCoder/XSerialization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "A2212B88-FC47-49BF-A9FD-7ED0F0D378A9 - 99ef0a0110134b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XCoder.XCReader.readHeader(index: Swift.UnsafeMutablePointer&lt;Swift.Int&gt;) throws -&gt; __C.XCValueHeader_s"
+                  moduleName = "XCoder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vector/git.public/git.public/XCoder/Sources/XCoder/XSerialization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44F6E424-B018-4341-A6CC-93EDFCEBFF9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/XCoreCoder/XCoreCoder.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "487"
+            endingLineNumber = "487"
+            landmarkName = "__XCDecodeUInt64Varint(bytes, capacity, location, value)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "44F6E424-B018-4341-A6CC-93EDFCEBFF9C - 6d80e4b713f131c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__XCDecodeUInt64Varint"
+                  moduleName = "XCoder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vector/git.public/git.public/XCoder/Sources/XCoreCoder/XCoreCoder.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "469"
+                  endingLineNumber = "469"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "44F6E424-B018-4341-A6CC-93EDFCEBFF9C - 6d80e4b713f131c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__XCDecodeUInt64Varint"
+                  moduleName = "XCoder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vector/git.public/git.public/XCoder/Sources/XCoreCoder/XCoreCoder.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "469"
+                  endingLineNumber = "469"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "527B2D1C-033A-4ED5-AFEF-BBC7E3780B13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "841"
+            endingLineNumber = "841"
+            landmarkName = "testVarint(buffer:encode:decode:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C19053F6-FAB7-404A-973E-342E1E7E06B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "775"
+            endingLineNumber = "775"
+            landmarkName = "testCollection()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51DE1C11-9345-41A8-BA2E-564F6C0D3F3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/XCoder/XSerialization.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "readValue(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51DE1C11-9345-41A8-BA2E-564F6C0D3F3B - 38b6fd422ceb36b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XCoder.XCReader.readValue(index: Swift.UnsafeMutablePointer&lt;Swift.Int&gt;) throws -&gt; XCoder.XCValue"
+                  moduleName = "XCoder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vector/git.public/git.public/XCoder/Sources/XCoder/XSerialization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "2262">
+               </Location>
+               <Location
+                  uuid = "51DE1C11-9345-41A8-BA2E-564F6C0D3F3B - 38b6fd422ceb36f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XCoder.XCReader.readValue(index: Swift.UnsafeMutablePointer&lt;Swift.Int&gt;) throws -&gt; XCoder.XCValue"
+                  moduleName = "XCoder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vector/git.public/git.public/XCoder/Sources/XCoder/XSerialization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+               <Location
+                  uuid = "51DE1C11-9345-41A8-BA2E-564F6C0D3F3B - 38b6fd422ceb36f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "XCoder.XCReader.readValue(index: Swift.UnsafeMutablePointer&lt;Swift.Int&gt;) throws -&gt; XCoder.XCValue"
+                  moduleName = "XCoder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vector/git.public/git.public/XCoder/Sources/XCoder/XSerialization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9789E597-D8DA-421A-9696-1014EFF18BCA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "772"
+            endingLineNumber = "772"
+            landmarkName = "testCollection()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABEA5118-574A-4BD0-B2D5-F7335F09DFDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/XCoder/XSerialization.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "readValue(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FB9B23E-656A-438B-9CAF-62E286635C99"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/XCoreCoder/XCoreCoder.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "889"
+            endingLineNumber = "889"
+            landmarkName = "XCDecodeHeader(bytes, capacity, location, header)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
